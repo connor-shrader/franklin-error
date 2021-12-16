@@ -1,3 +1,3 @@
 @def title = "Ignore This Page"
 
-Hello!
+Hello! This page is not being ignored!
